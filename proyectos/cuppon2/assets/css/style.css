@@ -1,0 +1,18 @@
+.card{
+    width: 90%;
+    margin: auto;
+}
+
+img{
+    width: 250px;
+    height: 200px;
+}
+
+
+.fs-7{
+    font-size: 0.7rem;
+}
+
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
